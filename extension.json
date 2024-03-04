@@ -1,6 +1,6 @@
 {
   "name": "Smooth Theme",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "authors": ["Niels Segers <github@niels.foo>"],
   "description": "Aesthetically pleasing dark theme with soft pastel colors aiming to be very easy on the eyes.",
   "repository": "https://github.com/segersniels/zed-smooth"
