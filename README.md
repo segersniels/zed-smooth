@@ -1,6 +1,6 @@
 # zed-smooth
 
-Aesthetically pleasing dark theme with soft colors aiming to be very easy on the eyes.
+Aesthetically pleasing dark and light theme with soft colors aiming to be very easy on the eyes.
 
 ![theme](./theme.png)
 

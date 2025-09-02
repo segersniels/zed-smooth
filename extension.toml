@@ -3,5 +3,5 @@ name = "Smooth Theme"
 version = "1.0.1"
 schema_version = 1
 authors = ["Niels Segers <github@niels.foo>"]
-description = "Aesthetically pleasing dark theme with soft pastel colors aiming to be very easy on the eyes."
+description = "Aesthetically pleasing dark and light theme with soft pastel colors aiming to be very easy on the eyes."
 repository = "https://github.com/segersniels/zed-smooth"
