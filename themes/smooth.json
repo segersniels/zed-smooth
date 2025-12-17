@@ -37,7 +37,7 @@
         "icon.disabled": null,
         "icon.placeholder": null,
         "icon.accent": null,
-        "status_bar.background": "#f6c1777e",
+        "status_bar.background": "#f6c177",
         "title_bar.background": "#3c3c3c",
         "toolbar.background": "#383838",
         "tab_bar.background": "#383838",
